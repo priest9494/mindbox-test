@@ -1,0 +1,16 @@
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.csprojAssemblyReference.cache
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfoInputs.cache
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.AssemblyInfo.cs
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.csproj.CoreCompileInputs.cache
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\demo.exe
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\demo.deps.json
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.json
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\demo.runtimeconfig.dev.json
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\demo.dll
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\demo.pdb
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\geometry-library.dll
+E:\projects\geometry-lib\demo\bin\Debug\netcoreapp3.1\geometry-library.pdb
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.csproj.CopyComplete
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.dll
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.pdb
+E:\projects\geometry-lib\demo\obj\Debug\netcoreapp3.1\demo.genruntimeconfig.cache

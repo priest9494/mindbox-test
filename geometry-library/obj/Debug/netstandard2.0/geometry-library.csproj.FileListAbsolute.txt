@@ -1,0 +1,9 @@
+E:\projects\geometry-lib\geometry-library\bin\Debug\netstandard2.0\geometry-library.deps.json
+E:\projects\geometry-lib\geometry-library\bin\Debug\netstandard2.0\geometry-library.dll
+E:\projects\geometry-lib\geometry-library\bin\Debug\netstandard2.0\geometry-library.pdb
+E:\projects\geometry-lib\geometry-library\obj\Debug\netstandard2.0\geometry-library.csprojAssemblyReference.cache
+E:\projects\geometry-lib\geometry-library\obj\Debug\netstandard2.0\geometry-library.AssemblyInfoInputs.cache
+E:\projects\geometry-lib\geometry-library\obj\Debug\netstandard2.0\geometry-library.AssemblyInfo.cs
+E:\projects\geometry-lib\geometry-library\obj\Debug\netstandard2.0\geometry-library.csproj.CoreCompileInputs.cache
+E:\projects\geometry-lib\geometry-library\obj\Debug\netstandard2.0\geometry-library.dll
+E:\projects\geometry-lib\geometry-library\obj\Debug\netstandard2.0\geometry-library.pdb

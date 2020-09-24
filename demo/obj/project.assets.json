@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "geometry-library/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/geometry-library.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/geometry-library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "geometry-library/1.0.0": {
+      "type": "project",
+      "path": "../geometry-library/geometry-library.csproj",
+      "msbuildProject": "../geometry-library/geometry-library.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "geometry-library >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\pries\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\projects\\geometry-lib\\demo\\demo.csproj",
+      "projectName": "demo",
+      "projectPath": "E:\\projects\\geometry-lib\\demo\\demo.csproj",
+      "packagesPath": "C:\\Users\\pries\\.nuget\\packages\\",
+      "outputPath": "E:\\projects\\geometry-lib\\demo\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\pries\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\projects\\geometry-lib\\geometry-library\\geometry-library.csproj": {
+              "projectPath": "E:\\projects\\geometry-lib\\geometry-library\\geometry-library.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

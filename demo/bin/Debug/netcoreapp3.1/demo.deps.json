@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "demo/1.0.0": {
+        "dependencies": {
+          "geometry-library": "1.0.0"
+        },
+        "runtime": {
+          "demo.dll": {}
+        }
+      },
+      "geometry-library/1.0.0": {
+        "runtime": {
+          "geometry-library.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "demo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "geometry-library/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

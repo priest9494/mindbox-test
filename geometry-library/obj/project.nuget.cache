@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nsq0WgnDPNW8BNEwRalBk1vzNckgZ0xqNx/GJQ0c50MCLyWYx3UUVDkheuVQcwT3L4Ch9Nn1e46iWhV8o2/0QQ==",
+  "success": true,
+  "projectFilePath": "E:\\projects\\geometry-lib\\geometry-library\\geometry-library.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pries\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\pries\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
